@@ -44,6 +44,8 @@ This project explores the mismatch between ride requests and trip fulfillment on
 
 ---
 
+---
+
 ## 🔍 Insights
 
 - Fulfillment rate drops significantly at **5–9 AM** and **11 PM–3 AM**
